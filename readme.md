@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-
+<br/>
 
  🎓 **Desenvolvedor focado em Soluções de Dados e Gamificação**
  
@@ -22,11 +22,11 @@
 Você pode me encontrar aqui 👇
 
 <div>
-<a href="[LINK_DO_SEU_INSTAGRAM]" target="_blank">
+<a href="https://www.instagram.com/kelvinn_nascimento1/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="[LINK_DO_SEU_LINKEDIN]" target="_blank">
+<a href="https://www.linkedin.com/in/kelvin-nascimento-91493719b/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 </div>
@@ -43,12 +43,9 @@ Você pode me encontrar aqui 👇
   <img align="center" alt="Qlik" src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white">
   <img align="center" alt="PowerApps" src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white">
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
  
  <br/>
  <br>
- 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
