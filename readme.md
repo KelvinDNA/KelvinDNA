@@ -2,9 +2,9 @@
 
 <br/>
 
- 🎓 **Developer focused on Data Solutions and Gamification**
+ 🎓 **Developer focused on Data Solutions and Web Application Development**
  
- 🛠️ Currently developing my Final Thesis (TCC) on **Serious Games for Corporate Training**.
+ 🛠️ Currently working on my Final Thesis (TCC) involving **Business Intelligence and Web Solutions**.
  
  📊 Expert in BI and Low-code: **Qlik Sense** and **Power Apps**.
  
@@ -14,7 +14,7 @@
 
 ### 🎯 Focus for 2026:
 * 🚀 Career growth and technical evolution in **Data Engineering**.
-* 🎮 Applying game mechanics to the corporate world.
+* 💻 Building scalable and efficient **Web Applications**.
 * 🗣️ Continuous English improvement through practical projects.
 
 <br/>
