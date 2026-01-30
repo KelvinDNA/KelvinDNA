@@ -2,24 +2,24 @@
 
 <br/>
 
- 🎓 **Desenvolvedor focado em Soluções de Dados e Gamificação**
+ 🎓 **Developer focused on Data Solutions and Gamification**
  
- 🛠️ Atualmente desenvolvendo meu TCC sobre **Serious Games para Treinamento Empresarial**.
+ 🛠️ Currently developing my Final Thesis (TCC) on **Serious Games for Corporate Training**.
  
- 📊 Especialista em BI e Low-code: **Qlik Sense** e **Power Apps**.
+ 📊 Expert in BI and Low-code: **Qlik Sense** and **Power Apps**.
  
- 🐍 Apaixonado por Python e automação (recentemente criando lições interativas de inglês!).
+ 🐍 Passionate about Python and automation (recently creating interactive English lessons!).
 
 <br/>
 
-### 🎯 Foco para 2026:
-* 🚀 Expansão de carreira e evolução técnica em **Engenharia de Dados**.
-* 🎮 Aplicação de mecânicas de jogos no mundo corporativo.
-* 🗣️ Aprimoramento contínuo em Inglês através de projetos práticos.
+### 🎯 Focus for 2026:
+* 🚀 Career growth and technical evolution in **Data Engineering**.
+* 🎮 Applying game mechanics to the corporate world.
+* 🗣️ Continuous English improvement through practical projects.
 
 <br/>
 
-Você pode me encontrar aqui 👇
+You can find me here 👇
 
 <div>
 <a href="https://www.instagram.com/kelvinn_nascimento1/" target="_blank">
